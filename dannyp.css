@@ -1,0 +1,33 @@
+.big-box {
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 1rem;
+    
+}
+.text-align-center {
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+.bkg-primary {
+    background-color: #83c8d9;
+}
+.border {
+    border: 6px solid #cecac0;
+}
+.txt-white {
+    color: white;
+}
+.txt-black {
+    color: rgb(0, 0, 0);
+}
+.txt-attention {
+    color: rgb(255, 251, 0);
+}
+.txt-hot {
+    color: rgb(255, 0, 0);
+}
+.txt-smokey {
+    color: #cecac0;
+}
